@@ -7,17 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "banMsg": false,
-  "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Darkñess-BOT",
   "PREFIX": "/",
-  "react": "☠️",
   "OPERATOR": [
-    "",
-    "100000959749712"
+    "100068374219299",
+    "100068374219299"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100068374219299",
     ""
   ],
   "OWNER": ["100000959749712"], 
